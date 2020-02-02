@@ -1,4 +1,4 @@
-# Socket-Programming-with-UDP
+# Socket_Programming_with_UDP
 
 UDP is unreliable data transfer. Used for loss tolerant data transfer(audio, video, games and so on)
 Tried it on text messages(I know TCP is the best for such things, but...)
